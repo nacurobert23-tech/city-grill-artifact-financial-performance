@@ -1,8 +1,6 @@
 # City Grill Performance Overview
 
-Interactive financial dashboard for **City Grill Group** (Romanian restaurant and hospitality group), built for a practical AI assessment. The interface is in Romanian.
-
-Open `index.html` in a browser. The page is self-contained: React 18 is loaded from a CDN and all data is embedded, so no build step, backend or API key is needed. To host it, enable GitHub Pages (Settings → Pages → deploy from `main`, root folder).
+Interactive financial dashboard for **City Grill Group** (Romanian restaurant and hospitality group).
 
 ## What the dashboard shows
 
