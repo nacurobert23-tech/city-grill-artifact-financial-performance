@@ -1,0 +1,11 @@
+﻿Period,Metric,Scope,Reported_Value,Reported_Currency,FX_Metric_ID,FX_BNR_Annual_Avg_RON_per_EUR,Value_EUR_m,Value_RON_m,YoY_or_Required_Growth_EUR_pct,YoY_or_Required_Growth_RON_pct,Status,Dashboard_Grade,Acquisition_Revenue_Included,Observation_IDs,Source_IDs,Note
+FY2023,Revenue,"Group, total reported",280,RON,MA-024,4.9464,56.61,280,,,Reported actual,A,No,CF-017,S01,"Marty acquired Oct 2024; Aubergine 49% minority, not consolidated"
+FY2024,Revenue,"Group, total reported",339,RON,MA-025,4.9746,68.15,339,20.39,21.07,Reported actual,A,Not confirmed,CF-025,S01,Marty 55% acquired Oct 2024; inclusion in 2024 revenue not stated
+FY2025,Revenue,Consolidated incl. Marty Restaurants and Aubergine,90,EUR,MA-026,5.0415,90,453.7,32.07,33.85,Reported actual,A,Yes,CF-028,S01,"Growth is acquisition-affected, not organic"
+FY2025,Revenue,Existing brands (active also in 2024),75,EUR,MA-026,5.0415,75,378.1,10.06,11.54,Reported actual,A,No,CF-029,S01,"Company states +10% in EUR; company definition, not audited"
+FY2026,Revenue target,"Consolidated, full year",100,EUR and RON,n/a (no 2026 BNR average),,100,500,11.11,10.2,Reported target,B,Yes,CF-035; CF-036,S01; S06,"Growth = required growth to target, not achieved; RON target is ""over RON 500M"""
+H1 2026,Revenue growth (interim),Not specified,2,%,n/a,,,,2.0,2.0,Reported actual,A,Not specified,CF-034,S05,Absolute H1 revenue not public; not an annual result
+FY2023,Average bill,Group average,50,EUR,MA-024,4.9464,50,247.3,,,Reported actual,A,n/a,OI-012,S09,Definitions differ between years; compare with caution
+H1 2024,Average bill,"Group average (H1 only, converted at 2024 annual average)",45,EUR,MA-025,4.9746,45,223.9,,,Reported actual,A,n/a,OI-020,S10,Definitions differ between years; compare with caution
+FY2025,Average bill,Restaurants,290,RON,MA-026,5.0415,57.52,290,,,Reported actual,A,n/a,OI-027,S02,Definitions differ between years; compare with caution
+FY2026,Revenue gap to target,Consolidated,,,MA-026,5.0415,10,46.3,,,Calculated,B,Yes,CF-035; CF-036; CF-028,S01; S06,Target minus FY2025 consolidated revenue
